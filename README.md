@@ -1,6 +1,6 @@
 ## Yaf Codes Generator
 
->该Yaf框架代码生成器由Yaf官方提供的cg（https://github.com/laruence/yaf/tree/master/tools/cg）修改而成。
+>该Yaf框架代码生成器由Yaf官方提供的[cg](https://github.com/laruence/yaf/tree/master/tools/cg)修改而成。
 
 ### Usage
 在原有基础上做了如下变更和改进：
